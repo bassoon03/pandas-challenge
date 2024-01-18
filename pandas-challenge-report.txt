@@ -1,0 +1,15 @@
+One observation that stands out is all the charter schools have higher average math scores than all the district schools. Furthermore,
+all the charter schools have average math scores above the district average, while all the district schools have average math scores less
+than the district average. The district average sits at 78.985%. The lowest average math score among the district schools and thus overall
+is 76.629%, so just over 2 percentage points below the district average. All the charter schools have average math scores greater than 80% 
+with the greatest sitting at 83.840%. Using only this metric it appears that students in charter schools are doing better in math than 
+students in district schools.
+
+A similar observation can be made for average reading scores. All the charter schools have average reading scores greater than the distric
+average of 81.878% and all the district schools have average reading scores less than the district average. The lowest of the district
+school average reading scores is 80.745%, while the highest of the charter school average reading scores is 84.045%. It appears that charter
+schools outperform district school in both reading and math, at least on these two metrics.
+
+The overall passing rates between the two types of schools is also drastically different. Out of all the charter schools, Holden High School
+has the lowest overall passing rate at 89.227%, while the highest overall passing rate among the district schools is 54.642% at Bailey High
+School. That is a difference of 24.585 percentage points.
